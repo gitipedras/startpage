@@ -1,6 +1,6 @@
 # Startpage
 Startpage<br>
-## Version 0.2.0: <br>
+## Version 0.2.1: <br>
 Tested on: <br>
 - Firefox <br>
 - Chromium <br>
