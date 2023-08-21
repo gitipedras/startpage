@@ -1,5 +1,6 @@
 # Startpage
 Startpage<br>
+Wiki at: webvolution.net/startpage/docu/index.html
 ## Version 0.2.1: <br>
 Tested on: <br>
 - Firefox <br>
